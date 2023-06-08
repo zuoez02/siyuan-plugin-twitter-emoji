@@ -1,0 +1,15 @@
+{
+    "name": "siyuan-plugin-twitter-emoji",
+    "author": "zuoez02",
+    "url": "https://github.com/zuoez02/siyuan-plugin-twitter-emoji",
+    "version": "0.1.0",
+    "displayName": {
+        "default": "表情包- Twitter Emoji"
+    },
+    "description": {
+        "default": "表情包- Twitter Emoji"
+    },
+    "readme": {
+        "default": "README.md"
+    }
+}

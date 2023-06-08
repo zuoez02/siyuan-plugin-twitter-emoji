@@ -1,0 +1,15 @@
+/* [0] */
+
+@font-face {
+    font-family: 'Twitter Emoji';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/plugins/siyuan-plugin-twitter-emoji/Twemoji.Mozilla.ttf");
+}
+
+:root {
+    --b3-font-family-emoji: 'Twitter Emoji', sans-serif !important;
+    --b3-font-family-code: "JetBrainsMono-Regular", mononoki, Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twitter Emoji', "Apple Color Emoji", "Segoe UI Emoji", "Twitter Emoji", "Segoe UI Symbol", "Android Emoji", "EmojiSymbols" !important;
+    --b3-font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", "Hiragino Sans GB", "Microsoft Yahei", sans-serif, 'Twitter Emoji', "Apple Color Emoji", "Segoe UI Emoji", "Twitter Emoji", "Segoe UI Symbol", "Android Emoji", "EmojiSymbols" !important;
+}
